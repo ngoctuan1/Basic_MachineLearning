@@ -1,1 +1,1 @@
-# Basic_MachineLearning
+Some basic algorithm about machine learning
